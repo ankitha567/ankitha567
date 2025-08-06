@@ -5,11 +5,6 @@ I blend art, code, and purpose to build projects.
 
 ---
 
-                                           
-- 🌱  I’m 3rd year CSE student
--   💻  I’m currently learning on full stack development with strong logic and clean code.
-
----
 
 
 🌱 **Diploma Student | 3rd Year in Computer Science & Engineering**  
