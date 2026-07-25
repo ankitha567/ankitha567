@@ -7,7 +7,7 @@ I blend art, code, and purpose to build projects.
 
 
 
-🌱 **Diploma Student | 3rd Year in Computer Science & Engineering**  
+🌱 **Diploma Graduate | Final Year student Computer Science & Engineering**  
 💻 Currently diving deep into **Full Stack Development**, building strong logic, clean code, and intuitive design.  
 
 ---
