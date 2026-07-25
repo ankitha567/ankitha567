@@ -18,8 +18,7 @@
 Here are the languages, frameworks, and core developer tools I use daily:
 
 <!-- Modern Skill Icons Grid (Change or add any tech stack tags after the ?i= parameter) -->
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ### 🏆 Coding Profiles
