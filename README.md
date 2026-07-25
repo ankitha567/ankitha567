@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Ankitha
-<p align="left">
-  <img src="https://vercel.app" alt="Ankitha's Header Banner" width="100%" />
-</p>
+
 
 > **"I blend art, code, and purpose to build impactful projects."**
 
@@ -36,10 +34,7 @@ Track my competitive programming milestones and problem-solving journey:
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://herokuapp.com" alt="Ankitha's GitHub Streak" height="150" />
-</p>
+
 
 ---
 
